@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33334662962",
+    "project_id": "neeresolve-d9a19",
+    "storage_bucket": "neeresolve-d9a19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33334662962:android:7319da7f4aa93bba0ee92b",
+        "android_client_info": {
+          "package_name": "com.neeresolve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3y2fdsLwb5h2CpU_fVtdw_xcXJrzi8xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
